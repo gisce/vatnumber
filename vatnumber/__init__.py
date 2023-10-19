@@ -5,7 +5,7 @@ Check the VAT number depending of the country based on formula from
 http://sima-pc.com/nif.php (dead link, was http://web.archive.org/web/20120118023804/http://sima-pc.com/nif.php)
 http://en.wikipedia.org/wiki/Vat_number
 '''
-__version__ = '1.3'
+__version__ = '3.0.0'
 
 
 def _posint(x):
