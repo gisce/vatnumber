@@ -39,7 +39,7 @@ setup(
         ],
     license='GPL-3',
     install_requires=[
-        'python-stdnum',
+        'python-stdnum>=1.20,<2.0',
         ],
     extras_require={
         'suds': ['suds'],
